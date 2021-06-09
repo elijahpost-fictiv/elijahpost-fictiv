@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elijahpost-fictiv (my regular GitHub account is @elijahpost, though there's not much there.
 - 👀 I’m interested in learning. And am always interested in learning.
 - 🌱 I’m currently learning Flow, Apex for SFDC
-- 📫 Fictiv employees may reach me on Slack. If you are reading this and you are not a Fictiv employee, you may reach me on LinkedIn for professional corespondance, or Instagram for Rock and Roll related correspondance.
+- 📫 Fictiv employees may reach me on Slack. If you are reading this and you are not a Fictiv employee, you may reach me on LinkedIn for professional reasons, or Instagram for Rock n' Roll reasons.
